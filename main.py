@@ -7,5 +7,5 @@ def run_etl():
     processed = transform_data(raw)
     load_data(processed)
 
-if __name__ == "__main__":
+if __name__ == "__main__" :
     run_etl()

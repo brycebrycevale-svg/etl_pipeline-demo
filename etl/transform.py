@@ -1,3 +1,3 @@
-def transfrom_data(rows):
+def transform_data(rows):
     # TODO: implement transformation
     return rows
